@@ -1,0 +1,34 @@
+img {
+     border-radius: 50%;
+     width: 80px;
+     height: 100px;
+}
+
+body{
+
+	background-color: #495057;
+}
+
+div{
+	padding: 60px;
+	background: #CED4DA;
+	margin: 20px;
+	border-radius: 4px;
+	box-shadow: 2px 2px 8px rgba(20,20,20,0.25);
+
+
+}
+#link {
+	padding-top: 20px
+}
+#first{
+	text-align: center;
+}
+
+#logo{
+	font-size: 50px;
+}
+
+#bouton {
+background-color : white;
+padding: 5px 8px;
